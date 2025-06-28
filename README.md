@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'am Nitesh Das<br>a passionate student web developer currently pursuing Civil Engineering to secure a challenging position in a reputable organization where I can apply my technical skills, design expertise and problem solving abilites to contribute to innovative infrastructure development while ensuring sustainability and quality .
 
+# Interest
+in Web Designing
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitesh5_67) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//nitesh-kumar-b4b300334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n.k.sitedas@gmail.com) 
