@@ -4,7 +4,7 @@ I'am Nitesh Das<br>a passionate student web developer currently pursuing Civil E
 # Interest
 in Web Designing
 
-
+##
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitesh5_67) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//nitesh-kumar-b4b300334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:n.k.sitedas@gmail.com) 
 
@@ -18,6 +18,4 @@ in Web Designing
 ---
 [![](https://visitcount.itsvg.in/api?id=nitesh-567&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/nitesh-567/nitesh-567/output/snake.svg" alt="Snake animation" />
 
-###
