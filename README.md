@@ -16,3 +16,33 @@ I'am Nitesh Das<br>a passionate student web developer currently pursuing Civil E
 [![](https://visitcount.itsvg.in/api?id=nitesh-567&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: Push to GitHub
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+![GitHub Snake Light](https://github.com/your-username/your-username/blob/output/github-snake.svg)
+
+![GitHub Snake Dark](https://github.com/your-username/your-username/blob/output/github-snake-dark.svg?palette=github-dark)
+
